@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a tech-loving young programmer 💻 and a student at Platzi who's always hungry to learn something new, 🤓 and have experience developing web apps primarily using JavaScript and TypeScript, and utilizing technologies such as Vue.js, TailwindCSS, and Firebase.
+I'm a tech-loving young programmer 💻 and a student at Platzi who's always hungry to learn something new, 🤓 have experience developing web apps primarily using JavaScript and TypeScript, and utilizing technologies such as Vue.js, TailwindCSS, and Firebase.
