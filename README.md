@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there! 👋🏼 I'm Jose Daniel
 
 <!--
 **JDPaiva1/JDPaiva1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a tech-loving young programmer 💻 and a student at Platzi who's always hungry to learn something new, 🤓 and have experience developing web apps primarily using JavaScript and TypeScript, and utilizing technologies such as Vue.js, TailwindCSS, and Firebase.
